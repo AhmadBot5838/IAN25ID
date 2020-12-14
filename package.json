@@ -1,5 +1,5 @@
 {
-  "name": "ALFBOT",
+  "name": "GUSTIAN",
   "version": "1.0.0",
   "description": "bot termux",
   "main": "index.js",
@@ -27,7 +27,7 @@
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "IAN",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/alfiansx/alfbot/issues"
